@@ -1,4 +1,4 @@
-<a href="https://t.me/shukhratutaboev"><img src="emoji.png" align="right" height="200"/></a>
+<a href="https://t.me/shukhratutaboev"><img src="memoji.png" align="right" height="200"/></a>
 
 # Hi there, I'm Shukhrat 👋
 
