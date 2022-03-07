@@ -44,7 +44,7 @@
 <div>
  <br/>
 
-[![Wahid's Streak](https://github-readme-streak-stats.herokuapp.com?user=shukhratutaboev&theme=dark&date_format=M%20j%5B%2C%20Y%5D&border=FFFFFF&ring=3722DD)](https://git.io/streak-stats)
+[![Wahid's Streak](https://github-readme-streak-stats.herokuapp.com?user=felixonmars&theme=dark&date_format=M%20j%5B%2C%20Y%5D&border=FFFFFF&ring=3722DD)](https://git.io/streak-stats)
 
 [![](https://komarev.com/ghpvc/?username=shukhratutaboev&color=orange&label=Profile%20Views)](https://github.com/shukhratutaboev/shukhratutaboev)
 [![](https://img.shields.io/github/followers/shukhratutaboev?label=GitHub%20Followers)](https://github.com/shukhratutaboev)
