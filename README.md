@@ -50,7 +50,7 @@
     <a href="https://leetcode.com/shuhratutaboyev2597/"><img width="48%" src="https://leetcode.card.workers.dev/shuhratutaboyev2597?theme=dark&font=baloo&extension=null&border=2&border_radius=8"></a>
 </p>
   
-![](https://leetcode-badge.haozibi.dev/v1cn/chart/submission-calendar/shuhratutaboyev2597.svg)
+![](https://leetcode-badge.shuhratutaboyev2597.dev/v1cn/chart/submission-calendar/shuhratutaboyev2597.svg)
   
 [![](https://komarev.com/ghpvc/?username=shukhratutaboev&color=orange&label=Profile%20Views)](https://github.com/shukhratutaboev/shukhratutaboev)
 [![](https://img.shields.io/github/followers/shukhratutaboev?label=GitHub%20Followers)](https://github.com/shukhratutaboev)
