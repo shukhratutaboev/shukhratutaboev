@@ -49,6 +49,11 @@
 [![](https://komarev.com/ghpvc/?username=shukhratutaboev&color=orange&label=Profile%20Views)](https://github.com/shukhratutaboev/shukhratutaboev)
 [![](https://img.shields.io/github/followers/shukhratutaboev?label=GitHub%20Followers)](https://github.com/shukhratutaboev)
 
+<p align="center">
+    <a href="https://leetcode.com/drknzz/"><img width="48%" src="https://leetcode.card.workers.dev/drknzz?theme=dark&font=baloo&extension=null&border=2&border_radius=8"></a>
+    <a href="https://github.com/drknzz"><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drknzz&theme=dark&hide=html,css,cmake&layout=compact&langs_count=5&bg_color=101010&hide_title=true"></a>
+</p>
+
 <!--
 **shukhratutaboev/shukhratutaboev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
