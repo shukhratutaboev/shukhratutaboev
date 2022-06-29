@@ -51,7 +51,7 @@
 </p>
   
 ![](https://leetcode-badge.shuhratutaboyev2597.dev/v1cn/chart/submission-calendar/shuhratutaboyev2597.svg)
-  ![](https://leetcode-badge.haozibi.dev/v1cn/chart/submission-calendar/haozibi.svg)
+  ![](https://leetcode-badge.haozibi.dev/v1cn/chart/submission-calendar/shuhratutaboyev2597.svg)
   
 [![](https://komarev.com/ghpvc/?username=shukhratutaboev&color=orange&label=Profile%20Views)](https://github.com/shukhratutaboev/shukhratutaboev)
 [![](https://img.shields.io/github/followers/shukhratutaboev?label=GitHub%20Followers)](https://github.com/shukhratutaboev)
