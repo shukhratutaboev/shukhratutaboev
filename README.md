@@ -46,12 +46,12 @@
 
 [![Shukhrat's Streak](https://github-readme-streak-stats.herokuapp.com?user=shukhratutaboev&theme=dark&date_format=M%20j%5B%2C%20Y%5D&border=FFFFFF&ring=3722DD)](https://git.io/streak-stats)
 
-[![](https://komarev.com/ghpvc/?username=shukhratutaboev&color=orange&label=Profile%20Views)](https://github.com/shukhratutaboev/shukhratutaboev)
-[![](https://img.shields.io/github/followers/shukhratutaboev?label=GitHub%20Followers)](https://github.com/shukhratutaboev)
-
 <p align="center">
     <a href="https://leetcode.com/shuhratutaboyev2597/"><img width="48%" src="https://leetcode.card.workers.dev/shuhratutaboyev2597?theme=dark&font=baloo&extension=null&border=2&border_radius=8"></a>
 </p>
+  
+[![](https://komarev.com/ghpvc/?username=shukhratutaboev&color=orange&label=Profile%20Views)](https://github.com/shukhratutaboev/shukhratutaboev)
+[![](https://img.shields.io/github/followers/shukhratutaboev?label=GitHub%20Followers)](https://github.com/shukhratutaboev)
 
 <!--
 **shukhratutaboev/shukhratutaboev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
