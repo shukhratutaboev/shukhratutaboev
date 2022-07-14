@@ -2,7 +2,7 @@
 
 # Hi there, I'm Shukhrat 👋
 
-> A software engineer building awesome web back/front stuff using .NET tech-stack at `Ilmhub`. A loving son to a loving mother.
+> A software engineer building awesome web back/front stuff using .NET tech-stack at `UZCARD`. A loving son to a loving mother.
 <br/><br/><br/>
 
 <p align="end">
