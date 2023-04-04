@@ -48,7 +48,7 @@
 [![Shukhrat's Streak](https://github-readme-streak-stats.herokuapp.com?user=shukhratutaboev&theme=dark&date_format=M%20j%5B%2C%20Y%5D&border=FFFFFF&ring=3722DD)](https://git.io/streak-stats)
 
 <p align="center">
-    <a href="https://leetcode.com/shuhratutaboyev/"><img width="50%" src="https://leetcode.card.workers.dev/shuhratutaboyev?theme=dark&font=baloo&extension=null&border=2&border_radius=8"></a>
+    <a href="https://leetcode.com/shukhratutaboev/"><img width="50%" src="https://leetcode.card.workers.dev/shukhratutaboev?theme=dark&font=baloo&extension=null&border=2&border_radius=8"></a>
 </p>
   
 [![](https://komarev.com/ghpvc/?username=shukhratutaboev&color=orange&label=Profile%20Views)](https://github.com/shukhratutaboev/shukhratutaboev)
