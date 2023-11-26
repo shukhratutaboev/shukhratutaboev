@@ -21,7 +21,7 @@
   - 💼 &nbsp; Working as a Developer Teacher at [Ilmhub.](https://ilmhub.uz)
   - 💼 &nbsp; Working as a Software Engineer at [UZCARD.](https://uzcard.uz)
 - 📝 &nbsp; I share my ideas at [Telegram Blog.](https://t.me/shukhratutaboev)
-- 🌱 &nbsp; Learning .NET MAUI, DevOps and a lot more tech stuff.
+- 🌱 &nbsp; Learning DevOps and a lot more tech stuff.
 - 📫 &nbsp; Reach me at: shuhratutaboyev2597@gmail.com.
 
 <br/>
